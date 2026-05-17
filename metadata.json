@@ -1,0 +1,8 @@
+{
+  "name": "Brenda's Kitchen",
+  "description": "An artisanal digital archive for documenting and exploring culinary masterpieces from across the globe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

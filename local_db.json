@@ -1,0 +1,155 @@
+[
+  {
+    "_id": "offline-1",
+    "title": "Avocado Artisanal Toast",
+    "ingredients": [
+      "Sourdough Bread",
+      "Ripe Avocado",
+      "Chili Flakes",
+      "Radish Slivvers",
+      "Poached Egg"
+    ],
+    "instructions": "Toast the sourdough until golden. Mash avocado with a hint of lemon. Spread generously. Top with radish, chili flakes, and a perfectly poached egg.",
+    "cookingTime": 15,
+    "difficulty": "Easy",
+    "category": "Breakfast",
+    "imageUrl": "https://images.unsplash.com/photo-1525351484163-7529414344d8?q=80&w=1200",
+    "videoUrl": "/assets/videos/breakfast_prep.mp4",
+    "createdAt": "2024-03-20T10:00:00Z",
+    "updatedAt": "2024-03-20T10:00:00Z"
+  },
+  {
+    "_id": "offline-2",
+    "title": "Truffle Mushroom Risotto",
+    "ingredients": [
+      "Arborio Rice",
+      "Wild Mushrooms",
+      "Truffle Oil",
+      "Parmesan Cheese",
+      "Vegetable Broth"
+    ],
+    "instructions": "Sauté mushrooms. Gradually add broth to rice, stirring constantly. Finish with truffle oil and a mountain of parmesan.",
+    "cookingTime": 45,
+    "difficulty": "Hard",
+    "category": "Dinner",
+    "imageUrl": "https://images.unsplash.com/photo-1476124369491-e7addf5db371?q=80&w=1200",
+    "videoUrl": "/assets/videos/risotto_process.mp4",
+    "createdAt": "2024-03-20T11:00:00Z",
+    "updatedAt": "2024-03-20T11:00:00Z"
+  },
+  {
+    "_id": "offline-3",
+    "title": "Summer Berry Galette",
+    "ingredients": [
+      "Fresh Raspberries",
+      "Blueberries",
+      "Shortcrust Pastry",
+      "Raw Sugar",
+      "Lemon Zest"
+    ],
+    "instructions": "Roll out pastry. Toss berries with sugar and zest. Fold edges over the fruit. Bake until rustically golden.",
+    "cookingTime": 35,
+    "difficulty": "Medium",
+    "category": "Dessert",
+    "imageUrl": "https://images.unsplash.com/photo-1519915028121-7d3463d20b13?q=80&w=1200",
+    "videoUrl": "/assets/videos/dessert_bake.mp4",
+    "createdAt": "2024-03-20T12:00:00Z",
+    "updatedAt": "2024-03-20T12:00:00Z"
+  },
+  {
+    "title": "eggs and fried ripped plantains ",
+    "ingredients": [
+      "eggs",
+      "ripped plantains",
+      "vegetable oil"
+    ],
+    "instructions": "wisk eggs, fried plantains",
+    "cookingTime": 15,
+    "difficulty": "Easy",
+    "category": "Breakfast",
+    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop&sig=eggs%20and%20fried%20ripped%20plantains%20",
+    "videoUrl": "",
+    "_id": "76i5nju07",
+    "createdAt": "2026-05-17T20:00:33.336Z",
+    "updatedAt": "2026-05-17T20:00:33.336Z"
+  },
+  {
+    "title": "eggs and fried ripped plantains ",
+    "ingredients": [
+      "eggs",
+      "ripped plantains",
+      "vegetable oil"
+    ],
+    "instructions": "wisk eggs, fried plantains",
+    "cookingTime": 15,
+    "difficulty": "Easy",
+    "category": "Breakfast",
+    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop&sig=eggs%20and%20fried%20ripped%20plantains%20",
+    "videoUrl": "",
+    "_id": "m1bdnt6n3",
+    "createdAt": "2026-05-17T20:00:33.432Z",
+    "updatedAt": "2026-05-17T20:00:33.432Z"
+  },
+  {
+    "_id": "cameroon-1",
+    "title": "Ndole (Bitterleaf Soup)",
+    "ingredients": [
+      "Bitterleaf",
+      "Peanuts",
+      "Crayfish",
+      "Beef or Fish",
+      "Onions",
+      "Ginger",
+      "Garlic"
+    ],
+    "instructions": "A rich, creamy Cameroonian specialty. Blend soaked peanuts. Sauté onions and ginger. Add meat and peanuts, simmer. Stir in washed bitterleaf and crayfish. Serve with Miondo or plantains.",
+    "cookingTime": 60,
+    "difficulty": "Hard",
+    "category": "Dinner",
+    "imageUrl": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?q=80&w=1200",
+    "videoUrl": "/assets/videos/ndole_prep.mp4",
+    "createdAt": "2024-03-21T09:00:00Z",
+    "updatedAt": "2024-03-21T09:00:00Z"
+  },
+  {
+    "_id": "cameroon-2",
+    "title": "Poulet DG",
+    "ingredients": [
+      "Chicken",
+      "Plantains",
+      "Bell Peppers",
+      "Carrots",
+      "Green Beans",
+      "Ginger",
+      "Celery"
+    ],
+    "instructions": "The 'Director General's Chicken'. Fry ripe plantains. Sear seasoned chicken. Sauté a colorful medley of vegetables. Combine and simmer in a rich tomato-ginger sauce.",
+    "cookingTime": 50,
+    "difficulty": "Medium",
+    "category": "Lunch",
+    "imageUrl": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?q=80&w=1200",
+    "videoUrl": "/assets/videos/poulet_dg.mp4",
+    "createdAt": "2024-03-21T10:00:00Z",
+    "updatedAt": "2024-03-21T10:00:00Z"
+  },
+  {
+    "_id": "cameroon-3",
+    "title": "Achu Soup",
+    "ingredients": [
+      "Cocoyam",
+      "Palm Oil",
+      "Limestone (Kanh)",
+      "Achu Spices",
+      "Cows Skin (Kanda)",
+      "Tripe"
+    ],
+    "instructions": "Boil and pound cocoyams until smooth and elastic. Prepare the 'yellow soup' by mixing palm oil, warm water, and limestone. Add unique Achu spices and steamed meats. An iconic ritual dish.",
+    "cookingTime": 90,
+    "difficulty": "Hard",
+    "category": "Other",
+    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?q=80&w=1200",
+    "videoUrl": "/assets/videos/achu_ritual.mp4",
+    "createdAt": "2024-03-21T11:00:00Z",
+    "updatedAt": "2024-03-21T11:00:00Z"
+  }
+]
