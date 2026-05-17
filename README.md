@@ -17,7 +17,7 @@
 ## Installation & Setup
 1. Clone the repository:
  ```bash
- git clone [your-repo-url]
+ git clone [https://github.com/808Brenda/NMB_KITCHEN_API]
  ```
 2. Install dependencies:
  ```bash
@@ -25,7 +25,7 @@
  ```
 3. Create a `.env` file in the root directory and add:
  ```env
- PORT=3000
+ PORT= http://localhost:3000/
  MONGODB_URI=your_mongodb_connection_string
  ```
 4. Start the server:
